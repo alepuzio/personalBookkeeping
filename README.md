@@ -16,4 +16,9 @@ Queste sono le caratteristiche base
 Questi sono interventi futuri:
 
 * associo alla data il numero di settimana cui appartiene
+
+# amvienti virtuali
+
+* uso virtualenv
+* comando: _virtualenv -p python3 pyspark_
 * 
