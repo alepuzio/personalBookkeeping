@@ -1,8 +1,11 @@
 virtualenv -p python3 pyspark
 
 # activation
-cd pyspark
-bin/activate
+python3 -m venv pyspark
+
+source pyspark/bin/activate
+
+
 
 # deactivation
 
