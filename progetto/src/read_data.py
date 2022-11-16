@@ -14,15 +14,20 @@ class Read:
 
     def data(self):
         spark = SparkSession.builder.master("local").appName("personalBookkeeping").getOrCreate()
-        df = spark.read.csv(self.path)
+        df = spark.read.csv(self.path, sep =';', header='true')
+        return df
 
     ##print schema
     def show(self, df):
         df.printSchema()
 
+    def csv(self, df):
+        df.show(10)
 
 if __name__ == '__main__' :
     print("leggo")
-    readata = Read("../data/expenses.csv")
-    readata.data()
+    read_data = Read("../data/expenses.csv")
+    dataCSV = read_data.data()
     print("read the data")
+    read_data.csv(dataCSV)
+    print("end")
