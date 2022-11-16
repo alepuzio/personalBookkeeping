@@ -23,6 +23,6 @@ class Read:
 
 if __name__ == '__main__' :
     print("leggo")
-    readata = Read("/tmp/resources/zipcodes.csv")
+    readata = Read("../data/expenses.csv")
     readata.data()
     print("read the data")
