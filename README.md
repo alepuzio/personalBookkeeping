@@ -27,7 +27,6 @@ In this section there are the future modifies of the code, either evolutive or b
 
 In this section I list the next modify of the project code
 
-* Writing the file *Contribuing* like [this](https://gist.github.com/PurpleBooth/b24679402957c63ec426/forks)
 
 ### Running
 
@@ -39,8 +38,7 @@ In this section I list the actual modify of the project code that are not comple
 
 In this section I list the past modifies of the project code that are successufully completed
 
-* Organizing the code: there are classes into directory test
-
+* Writing the file *Contribuing* like [this](https://gist.github.com/PurpleBooth/b24679402957c63ec426/forks)
 
 
 ## Status CI Integration
