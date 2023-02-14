@@ -94,14 +94,12 @@ The references are [this](https://developerzen.com/best-practices-writing-produc
 
 The structure of the directories is the following:
 
-* -src
-* --main.py: entry poin of the job (parsing arguments, load job module, run it)
-* -jobs: contains every job configuration and code 
-* --job1: conf and code of an hypotetique job1
-* ----- init.py: typical file __init__.py
-* -libs: install requirements
-* --setup.py
-* 
+* python-project.toml: dependencies of the project using [Poetry](https://python-poetry.org/docs/)
+* scripts: various script to run ( like _run-save-cleaned-data.sh_, _run-tests.sh_)
+* src/jobs/single-job: script of the jobs
+* tests: tests to run ( _unit_ , _integration_ )
+* transformations: operations about the transformation in PySpark (like _clean_data_)
+
 
 ## Pull Request Process
 This is the process 
@@ -114,4 +112,5 @@ This is the process
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
+
 
