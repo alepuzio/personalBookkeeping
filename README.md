@@ -2,7 +2,7 @@
 
 ---------------
 
-Project in  PySpark to register and analyze my personal expenses.
+Project in  PySpark to record and analyze my personal expenses.
 
 
 This application read the csv files in a directory as input and does the typical tasks of a data pipeline.
