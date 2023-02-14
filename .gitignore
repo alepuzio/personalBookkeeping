@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data, it s preserved only the structure
+data/expenses.csv
+data/*.csv
