@@ -1,0 +1,15 @@
+#clean data
+
+#read the CSV dir
+
+class CSV:
+
+    def __init__(self, newspark, dataset_input_path):
+        self.spark = newspark
+        self.dataset_input = dataset_input_path
+
+
+    def run(self):
+        input_dataframe = spark.read.csv(self.dataset_input, header=True)    
+        cleaned_columns = clean_names(input_dataframe.columns)
+
