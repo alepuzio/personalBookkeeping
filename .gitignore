@@ -131,3 +131,4 @@ dmypy.json
 # Data, it s preserved only the structure
 data/expenses.csv
 data/*.csv
+scripts/pyspark/
