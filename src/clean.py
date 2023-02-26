@@ -10,6 +10,7 @@ class CSV:
 
 
     def run(self):
-        input_dataframe = spark.read.csv(self.dataset_input, header=True)    
+        print("-"+self.dataset_input+"--")
+        input_dataframe = self.spark.read.csv(self.dataset_input, header=True)    
         cleaned_columns = clean_names(input_dataframe.columns)
 

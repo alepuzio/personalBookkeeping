@@ -28,6 +28,7 @@ class InputParameters:
         if ( len ( arguments )  < 3) :
             raise ValueError("The parameters have to be 3: name of the job, input path and output path")
         self.name = arguments[1]
+        arguments[2] = "~/repository_personal_software/git_repo/python/personalBookkeeping/data/"
         self.dataset_input_path = arguments[2]
         self.dataset_output_path = arguments[3]
 
