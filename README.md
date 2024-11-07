@@ -5,10 +5,14 @@
 Project in  PySpark to record and analyze my personal expenses.
 
 
-This application read the csv files in a directory as input and does the typical tasks of a data pipeline.
+This application read the Excel files in a directory as input and does the typical tasks of a data pipeline and EDA operations, saving the results in a txt file report.
 
 
-## Features
+## Actual Features
+
+In this section there are the available feature:
+
+*
 
 ### Future
 
@@ -28,11 +32,11 @@ In this section there are the future modifies of the code, either evolutive or b
 In this section I list the next modify of the project code
 
 
-### Running
+### On Working
 
 In this section I list the actual modify of the project code that are not completed
 
-* Declare the file and directory structure of the project
+* Declare the files and directories structure of the project
 
 ### Past
 

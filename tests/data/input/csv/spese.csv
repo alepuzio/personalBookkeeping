@@ -1,0 +1,7 @@
+Mese	 ,Entrate,Spese,Prelievo Contante,Risparmio,Spese online,Spese online in %,Risparmio mensile,Risparmio cumulativo,Giorni del mese
+Gennaio  ,2000	   ,   ,  ,    ,    ,  ,2000, 2000,  31
+Febbraio ,2000	   ,   ,  ,    ,    ,  ,2000, 4000,  29
+Marzo	 ,2000	   ,   ,  ,    ,    ,  ,2000, 6000,  31
+Aprile	 ,2000	   ,559,29, 210,1440,71, 349,   29,  62,   45,1440   ,71,7440,   71,30
+Maggio	 ,2000	   ,192,47, 270,1807,53, -77,   53, -40,   28,1807   ,53,9248,   24,31
+Giugno	 ,2000	   ,  0, 0,2000,   0,-1,2000,11248,  24,   30
