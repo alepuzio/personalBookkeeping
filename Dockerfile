@@ -8,7 +8,8 @@ WORKDIR /app
 
 ADD . /app
 
+ENV PIP_ROOT_USER_ACTION=ignore
 #install dependencies
-RUN pip install --progress-bar off -r requirements.txt
+RUN pip install --progress-bar off --root-user-action=ignore   -r requirements.txt
 
 CMD ["python3", "./tests/csv/run_tests.py"]
