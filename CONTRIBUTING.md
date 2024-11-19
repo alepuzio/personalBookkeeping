@@ -113,4 +113,11 @@ This is the process
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
+## Coding Style
+
+This project must follow the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
+You can use every IDE, but before pushing make sure that your code following the warning and output of [Black](https://github.com/psf/black) and [pylintrc](https://google.github.io/styleguide/pylintrc).
+As 'unit' in unit tests, we means the single module or class.
+The unit test are stored not in a different files, but in the same file where is declared the module or the class.
+
 

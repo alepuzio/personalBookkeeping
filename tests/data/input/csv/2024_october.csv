@@ -1,0 +1,127 @@
+Date,Expense, Reason,Earn, Cash withdrawal
+Data,Uscite,Motivo,Prevista,Entrate,Prelievo contante,Spese obbligatorie,Previste,Avvenute?,Causale sopra la media
+2,1.3,colazione,,,,abbonamento metro,2,1,nada
+2,11,pranzo,,,,barbiere,1,0,nada
+1,5.8,casalinghi,,,,bolletta luce,1,0,nada
+1,14,cena,,,,bolletta gas,1,0,nada
+4,5,pranzo,,,,spese condominiali,1,0,nada
+4,7.39,casalinghi,,,,mostra,4,0,nada
+5,10,moneta,,,,bottiglie di acqua,4,1,nada
+5,7.5,pranzo,,,,alimentari,4,1,nada
+5,1.5,caffe,,,,,,,nada
+5,4.2,merenda,,,,,,,nada
+5,51,abbigliamento,,,,,,,abbigliamento
+5,21.5,cena,,,,,,,nada
+5,70,riparazioni abbigliamento,,,,,,,riparazioni abbigliamento
+6,3.4,colazione,,,,,,,nada
+6,26.4,libro scacchi fisher,,,,,,,libro scacchi fisher
+6,34,pranzo,,,,,,,pranzo
+6,84,libri,,,,,,,libri
+6,4.55,alimenti,,,,,,,nada
+6,4.5,acqua,,,,,,,nada
+4,,prelievo,,,150,,,,nada
+1,20,ricarica iliad,,,,,,,nada
+6,17,cena,,,,,,,nada
+9,,rimborso servizio elettrico nazionale,,417.16,417.16,,,,nada
+9,3.5,frutta,,,,,,,nada
+11,14.4,cena,,,,,,,nada
+8,11.5,cena,,,,,,,nada
+9,35,medico,,,,,,,medico
+9,14.3,cena,,,,,,,nada
+6,40,libri gdpr,,,,,,,libri gdpr
+8,10.6,frutta,,,,,,,nada
+5,13.6,lavanderia,,,,,,,nada
+10,2.5,fotocopia,,,,,,,nada
+10,23,cena,,,,,,,nada
+11,10,pranzo,,,,,,,nada
+11,3.5,gelato,,,,,,,nada
+11,9.8,dolci,,,,,,,nada
+11,14.4,cena,,,,,,,nada
+12,34.8,pranzo,,,,,,,pranzo
+12,1.5,caffe,,,,,,,nada
+12,1.3,caffe,,,,,,,nada
+10,453,amministratore,,,,,,,amministratore
+12,41,abbigliamento,,,,,,,abbigliamento
+12,31,libri,,,,,,,libri
+13,78.8,arredamento,,,,,,,arredamento
+11,48,abbigliamento,,,,,,,abbigliamento
+11,26,stilografica,,,,,,,stilografica
+11,1.3,caffe,,,,,,,nada
+9,10.6,frutta,,,,,,,nada
+5,51,abbigliamento,,,,,,,abbigliamento
+12,1.5,caffe,,,,,,,nada
+12,31,libri,,,,,,,libri
+13,39,abbigliamento,,,,,,,abbigliamento
+13,3.3,colazione,,,,,,,nada
+13,35,cena,,,,,,,cena
+10,3,gelato,,,,,,,nada
+11,14.4,cena,,,,,,,nada
+11,9,cibo,,,,,,,nada
+12,3,casalinghi,,,,,,,nada
+12,11.5,pranzo,,,,,,,nada
+11,70,bottiglia leo,,,,,,,bottiglia leo
+13,41,arredamento,,,,,,,arredamento
+15,9.1,pranzo,,,,,,,nada
+15,11,frutta,,,,,,,nada
+15,7.3,giornaliero per leopoldo,,,,,,,nada
+15,14.4,cena,,,,,,,nada
+16,24.9,scatola muji,,,,,,,scatola muji
+15,9.3,pranzo con leo,,,,,,,nada
+17,49,psicologa,,,,,,,psicologa
+17,0.5,stampa,,,,,,,nada
+10,,stipendio,,1980,,,,,nada
+4,7.39,cancelleria,,,,,,,nada
+10,27.5,cena,,,,,,,cena
+19,5,colazione,,,,,,,nada
+16,24.95,arredamento,,,,,,,arredamento
+19,33.9,portapassaporti,,,,,,,portapassaporti
+19,47.5,libri,,,,,,,libri
+19,9.9,ombrello,,,,,,,nada
+13,8,gelato con leo,,,,,,,nada
+19,54.9,profumi,,,,,,,profumi
+19,1.5,caffe,,,,,,,nada
+19,52,orologio casio,,,,,,,orologio casio
+10,14.4,cena,,,,,,,nada
+19,10.7,cena,,,,,,,nada
+20,1.3,caffe in palazzo reale,,,,,,,nada
+20,15,mostra gae aulenti,,,,,,,nada
+20,1.5,caffe in triennale,,,,,,,nada
+20,1.2,caffe in tabaccheria udine,,,,,,,nada
+20,2.8,fotocopie documenti triibunale e rsa,,,,,,,nada
+20,47.86,arredamento,,,,,,,arredamento
+20,20.8,libri,,,,,,,nada
+22,11.72,frutta,,,,,,,nada
+22,2.3,colazione,,,,,,,nada
+22,7.3,casalinghi,,,,,,,nada
+22,49,psicologa,,,,,,,psicologa
+23,10.7,cena,,,,,,,nada
+23,9,pranzo,,,,,,,nada
+20,5,pranzo,,,,,,,nada
+21,4.7,casalinghi,,,,,,,nada
+6,84.2,libri,,,,,,,libri
+23,10.6,cena,,,,,,,nada
+24,10.8,casalinghi,,,,,,,nada
+25,10,pranzo,,,,,,,nada
+25,10.6,frutta,,,,,,,nada
+26,1.3,caffe,,,,,,,nada
+26,3.3,colazione,,,,,,,nada
+26,1.5,caffe,,,,,,,nada
+26,18,libri,,,,,,,nada
+26,69,abbigliamento,,,,,,,abbigliamento
+26,,prelievo,,,150,,,,nada
+26,3.99,alimentari,,,,,,,nada
+27,5,mostra libri antichi,,,,,,,nada
+27,3.3,colazione,,,,,,,nada
+27,1.5,caffe,,,,,,,nada
+28,15,sarto,,,,,,,nada
+28,8.6,alimentari,,,,,,,nada
+15,11.3,frutta,,,,,,,nada
+30,12,pranzo,,,,,,,nada
+30,2.5,caffe e dolce,,,,,,,nada
+31,234,assicurazionr realmente protetti,,,,,,,assicurazionr realmente protetti
+30,12,pranzo,,,,,,,nada
+30,13.4,cena da turco,,,,,,,nada
+31,12,pranzo,,,,,,,nada
+31,39,abbonamento metro,,,,,,,abbonamento metro
+31,8,penna ballograf,,,,,,,nada
+27,,libri,,34,,,,,nada

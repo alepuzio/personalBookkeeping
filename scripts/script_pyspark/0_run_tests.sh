@@ -1,5 +1,6 @@
 #!/usr/bin/bash
-echo "ciao"
+# execute the read data operation
+# (E of ETL process)
 
 #declare -a 
 list_dirs=("../tests/data/input/example.xls" "../tests/data/input/example.xls" "../tests/data/input/" "../tests/data/" "../tests/" )
@@ -24,4 +25,4 @@ else
     echo "output $output does'nt exist."
 fi
 
-python3 read_data.py nome $input $output
+python3 ../../read_data.py nome $input $output

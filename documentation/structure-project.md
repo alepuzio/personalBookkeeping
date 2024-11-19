@@ -12,4 +12,5 @@ The project is structured following [these indications](https://pyspark-tdd-temp
 * tests: internal tests
 	* test_data: data of the internal tests
 		* input: input data for the internal tests
+			* CSV: only CSV files: the name has to be "YEAR_MONTH_IN_NATURAL_LANGUAGE". The default is english, in configs you can put your translation 
 		* output: output data for the internal tests
